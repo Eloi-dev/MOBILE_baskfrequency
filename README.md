@@ -1,2 +1,2 @@
 # MOBILE_baskfrequency
-Bask Frequency association dashboard
+Bask Frequency dashboard application
